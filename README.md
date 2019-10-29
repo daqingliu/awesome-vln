@@ -73,3 +73,7 @@ BMVC, 2019. [[Paper]](https://arxiv.org/abs/1907.02985) [[Code]](https://github.
 1. **Transferable Representation Learning in Vision-and-Language Navigation** <br>
 *Haoshuo Huang, Vihan Jain, Harsh Mehta, Alexander Ku, Gabriel Magalhaes, Jason Baldridge, Eugene Ie* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.03409)
+
+1. **Robust Navigation with Language Pretraining and Stochastic Sampling** <br>
+*Xiujun Li, Chunyuan Li, Qiaolin Xia, Yonatan Bisk, Asli Celikyilmaz, Jianfeng Gao, Noah Smith, Yejin Choi* <br>
+EMNLP, 2019. [[Paper]](https://arxiv.org/abs/1909.02244) ~~[[Code]](https://github.com/xjli/r2r_vln)~~
