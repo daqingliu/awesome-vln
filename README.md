@@ -77,3 +77,11 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1908.03409)
 1. **Robust Navigation with Language Pretraining and Stochastic Sampling** <br>
 *Xiujun Li, Chunyuan Li, Qiaolin Xia, Yonatan Bisk, Asli Celikyilmaz, Jianfeng Gao, Noah Smith, Yejin Choi* <br>
 EMNLP, 2019. [[Paper]](https://arxiv.org/abs/1909.02244) ~~[[Code]](https://github.com/xjli/r2r_vln)~~
+
+1. **Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks** <br>
+*Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang* <br>
+arXiv:1911.07883. [[Paper]](https://arxiv.org/abs/1911.07883)
+
+1. **Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling** <br>
+*Tsu-Jui Fu, Xin Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
+arXiv:1911.07308. [[Paper]](https://arxiv.org/abs/1911.07308)
