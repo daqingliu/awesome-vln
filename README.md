@@ -23,7 +23,7 @@ To add a new paper via pull request:
 EMNLP, 2017. [[Paper]](https://www.aclweb.org/anthology/D17-1106.pdf) [[Code]](https://github.com/lil-lab/blocks)
 
 1. **Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction** <br>
-*Dipendra Misra, Andrew Bennett, Valts Blukis, Eyvind Niklasson, Max Shatkhin, Yoav Artzi*
+*Dipendra Misra, Andrew Bennett, Valts Blukis, Eyvind Niklasson, Max Shatkhin, Yoav Artzi* <br>
 EMNLP, 2018. [[Paper]](https://arxiv.org/pdf/1809.00786.pdf) [[Code]](https://github.com/lil-lab/ciff)
 
 1. **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
