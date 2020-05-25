@@ -74,7 +74,7 @@ To add a new paper via pull request:
 
 1. **Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments** <br>
    *Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee* <br>
-   arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.02857)
+   arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.02857) [[Code]](https://github.com/jacobkrantz/VLN-CE)
 
 ### Roadmap (Chronological Order):
 
