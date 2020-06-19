@@ -142,9 +142,13 @@ To add a new paper via pull request:
    *Tsu-Jui Fu, Xin Wang, Matthew Peterson, Scott Grafton, Miguel Eckstein, William Yang Wang* <br>
    arXiv, 2019. [[Paper]](https://arxiv.org/abs/1911.07308)
 
+1. **Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation** <br>
+    *Juncheng Li, Xin Wang, Siliang Tang, Haizhou Shi, Fei Wu, Yueting Zhuang, William Yang Wang* <br>
+CVPR, 2020. [[Paper]](https://arxiv.org/abs/1911.07450)
+
 1. **Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks** <br>
    *Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang* <br>
-   arXiv, 2019. [[Paper]](https://arxiv.org/abs/1911.07883)
+   CVPR, 2020. [[Paper]](https://arxiv.org/abs/1911.07883)
 
 1. **Perceive, Transform, and Act: Multi-Modal Attention Networks for Vision-and-Language Navigation** <br>
    *Federico Landi, Lorenzo Baraldi, Marcella Cornia, Massimiliano Corsini, Rita Cucchiara* <br>
