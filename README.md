@@ -76,6 +76,10 @@ To add a new paper via pull request:
    *Jacob Krantz, Erik Wijmans, Arjun Majumdar, Dhruv Batra, Stefan Lee* <br>
    arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.02857) [[Code]](https://github.com/jacobkrantz/VLN-CE)
 
+- **Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation** <br>
+   *Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira* <br>
+   ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.com/GT-RIPL/robo-vln)
+
 ### Roadmap (Chronological Order):
 
 - **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
@@ -204,4 +208,8 @@ To add a new paper via pull request:
    
 - **Environment-agnostic Multitask Learning for Natural Language Grounded Navigation** <br>
    *Xin Eric Wang, Vihan Jain, Eugene Ie, William Yang Wang, Zornitsa Kozareva, Sujith Ravi* <br>
-   ECCV, 2020. [[Paper]](https://arxiv.org/abs/2003.00443) 
+   ECCV, 2020. [[Paper]](https://arxiv.org/abs/2003.00443)
+
+- **Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation** <br>
+   *Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira* <br>
+   ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.com/GT-RIPL/robo-vln) [[Website]](https://zubair-irshad.github.io/projects/robo-vln.html) [[Video]](https://www.youtube.com/watch?v=y16x9n_zP_4)
