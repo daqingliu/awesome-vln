@@ -166,10 +166,6 @@ To add a new paper via pull request:
    *Weituo Hao, Chunyuan Li, Xiujun Li, Lawrence Carin, Jianfeng Gao* <br>
    CVPR, 2020. [[Paper]](https://arxiv.org/abs/2002.10638) [[Code]](https://github.com/weituo12321/PREVALENT)
    
-- **Environment-agnostic Multitask Learning for Natural Language Grounded Navigation** <br>
-   *Xin Wang, Vihan Jain, Eugene Ie, William Yang Wang, Zornitsa Kozareva, Sujith Ravi* <br>
-   arXiv, 2020. [[Paper]](https://arxiv.org/abs/2003.00443)
-   
 - **Multi-View Learning for Vision-and-Language Navigation** <br>
    *Qiaolin Xia, Xiujun Li, Chunyuan Li, Yonatan Bisk, Zhifang Sui, Jianfeng Gao, Yejin Choi, Noah A. Smith* <br>
    arXiv, 2020. [[Paper]](https://arxiv.org/abs/2003.00857)
