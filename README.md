@@ -67,6 +67,10 @@ To add a new paper via pull request:
 - **Talk2Nav: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory** <br>
    *Arun Balajee Vasudevan, Dengxin Dai, Luc Van Gool* <br>
    arXiv, 2019. [[Paper]](https://arxiv.org/abs/1910.02029) [[Website]](https://people.ee.ethz.ch/~arunv/talk2nav.html)
+   
+- **Talk2Car: Taking Control of Your Self-Driving Car** <br>
+   *Thierry Deruyttere, Simon Vandenhende, Dusan Grujicic, Luc Van Gool, Marie-Francine Moens* <br>
+   EMNLP, 2019. [[Paper]](https://aclanthology.org/D19-1215/) [[Website]](https://talk2car.github.io/)
 
 - **Cross-Lingual Vision-Language Navigation** <br>
    *An Yan, Xin Wang, Jiangtao Feng, Lei Li, William Yang Wang* <br>
