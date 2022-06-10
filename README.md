@@ -213,3 +213,7 @@ To add a new paper via pull request:
 - **Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation** <br>
    *Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira* <br>
    ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.com/GT-RIPL/robo-vln) [[Website]](https://zubair-irshad.github.io/projects/robo-vln.html) [[Video]](https://www.youtube.com/watch?v=y16x9n_zP_4)
+   
+- **SASRA: Semantically-aware Spatio-temporal Reasoning Agent for Vision-and-Language Navigation in Continuous Environments** <br>
+   *Muhammad Zubair Irshad, Niluthpol Chowdhury Mithun, Zachary Seymour, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar* <br>
+   ICPR, 2022. [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
