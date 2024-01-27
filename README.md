@@ -209,3 +209,7 @@ To add a new paper via pull request:
 - **Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation** <br>
    *Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira* <br>
    ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.com/GT-RIPL/robo-vln) [[Website]](https://zubair-irshad.github.io/projects/robo-vln.html) [[Video]](https://www.youtube.com/watch?v=y16x9n_zP_4)
+
+- **Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments** <br>
+   *Sonia Raychaudhuri, Saim Wani, Shivansh Patel, Unnat Jain, Angel Chang* <br>
+   EMNLP, 2021. [[Paper]](https://aclanthology.org/2021.emnlp-main.328) [[Code]](https://github.com/3dlg-hcvc/LAW-VLNCE) [[Website]](https://3dlg-hcvc.github.io/LAW-VLNCE) [[Video]](https://www.youtube.com/watch?v=7dRymdCIAvo)
